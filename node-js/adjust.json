@@ -1,0 +1,28 @@
+{
+        "voucherDetails" : null,
+        "initiatorPartnerName" : null,
+        "partnerReferenceId" : null,
+        "completedTime" : "2022-12-15T15:45:58+08:00",
+        "paymentMethod" : null,
+        "targetLoginId" : "20070000000000001010",
+        "bizOrderType" : "ADJUSTMENT",
+        "modifiedTime" : "2022-12-15T15:45:58+08:00",
+        "createdTime" : "2022-12-15T15:45:58+08:00",
+        "productCode" : "51052000000000001000",
+        "txnShortId" : "2000002564624",
+        "extendInfo" : "{\"orderPaidTime\":\"12/15/2022 15:45:58\",\"biz_request_id\":\"096f52d4-a858-4372-9398-97be338b0375\",\"payerId\":\"216620000000010001010\",\"shortTransId\":\"2000002564624\",\"payeeId\":\"09176275911\"}",
+        "txnStatus" : "SUCCESS",
+        "txnLongId" : "2022121511121700010100170010100533074",
+        "txnAmount" : {
+          "amount" : 75.0,
+          "cent" : 7500.0,
+          "centFactor" : 100.0,
+          "currency" : "PHP",
+          "currencyCode" : "PHP",
+          "currencyValue" : "608"
+        },
+        "loginId" : "217010000646016544267",
+        "txnName" : "ADJUSTMENT",
+        "txnDesc" : "Wallet adjustment",
+        "ledgerType" : null
+      }
